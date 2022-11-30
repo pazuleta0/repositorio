@@ -1,2 +1,7 @@
 console.log(Titulo en negrilla grande y centrado);
 console.log(se coloco pie de pagina como nombre de aprendiz y la fecha de creación);
+
+body {background-image: url("/docs/img/por.jfif");
+    background-size: cover;
+    background-repeat: no-repeat;
+};
